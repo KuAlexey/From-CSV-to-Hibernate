@@ -4,5 +4,6 @@
   2. Create Annotated POJO java class  (like "Item.java", "Item_test.java" from project).
   3. Change configuration of the "\src\resources\hibernate.cfg.xml" accordingly your purpose.
   4. Write the full name of the your object class in the file "MainApp.java".
-  5. For getting sure that your data if represented well repeat 4 tasks above with another names of table and test.
+  5. For getting sure that your data if represented well repeat 4 tasks above with another names of table and class for testing purpose.
   6. ;)
+
